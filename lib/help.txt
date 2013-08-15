@@ -1,0 +1,6 @@
+nodeapi [options]
+
+options:
+  -m, --module: Which module document you want to see.
+  -e, --method: Which method document you want to see.
+  -l, --list: List all modules name.
