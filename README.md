@@ -1,4 +1,5 @@
 # nodeapi
+[![NPM](https://nodei.co/npm/nodeapi.png)](https://nodei.co/npm/nodeapi/)
 
 > Inspired by [godoc](http://golang.org/cmd/godoc/), a pretty useful tool in [Go](http://golang.org), which can let developer check the api document easily. Just hope node can have one in the core, but do it myself at this time.
 
